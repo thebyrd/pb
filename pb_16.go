@@ -1,4 +1,4 @@
-// +build !windows !solaris
+// +build linux openbsd freebsd
 
 package pb
 
